@@ -4,4 +4,5 @@ FROM employee_demographics
 #WHERE (first_name = "Leslie" AND age = 44) OR age > 44
 
 #where first_name LIKE "er%"
-where first_name LIKE "a____"
+#where first_name LIKE "a____"
+where first_name LIKE "1989"
