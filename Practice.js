@@ -10,3 +10,6 @@ let sum = function(a, b) {
 */
 
 alert( sum(1, 2) ); // 3
+
+
+/*aRROW FUNCTIONS
